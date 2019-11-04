@@ -4,7 +4,7 @@ public class MyClass {
   int y = 10;
   public static void main(String[] args) {
     MyClass myObj = new MyClass();
-    System.out.println(myObj.x);
 	System.out.println(myObj.y);
+	System.out.println(myObj.z);
   }
 }
